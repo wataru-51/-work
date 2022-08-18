@@ -1,0 +1,182 @@
+@charset"utf-8";
+
+hrml {
+	font-size: 100%;
+}
+
+body {
+	font-family:"Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+	line-height: 1.4;
+	color: #432;
+	background-color:#e0ffff;
+}
+a{
+	text-decoration: none;
+}
+img {
+	max-width: 100%;
+}
+
+/*header*/
+.header-back{
+	background-image: url(../ホームページ制作/pakutaso.png);
+	background-repeat: repeat;	
+	
+}
+/*
+.header{
+	text-align: center;
+	color: #ffa07a;
+	font-size: 2.2rem;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	margin:0 280px;
+}*/
+
+.jojo-1{
+	/*color:#dcdcdc;*/
+	color: #3cd371;
+	text-align: center;
+	padding: 0.5em 0;
+	margin-top:10px;
+	border-top: solid 2px #6cb4e4;
+	border-bottom: solid 2px #6cb4e4;
+	background: -webkit-repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+	background: repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+	text-shadow: #fff 2px 0, #fff -2px 0, #fff 0 -2px, #fff 0 2px, #fff 2px 2px, #fff -2px 2px, #fff 2px -2px, #fff -2px -2px, #fff 	1px 2px, #fff -1px 2px, #fff 1px -2px, #fff -1px -2px, #fff 2px 1px, #fff -2px 1px, #fff 2px -1px, #fff -2px -1px, rgba(0, 0, 0,	.5) 3px 3px 3px;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明	朝", "ＭＳ 明朝", serif;
+	font-size:4rem;
+}
+
+
+.wrapper{	/*中央ぞろえ*/
+	max-width: 1050px;
+	margin: 0 auto;
+	padding: 0.6%;	
+	background-color:#e0ffff;
+}	
+	
+	
+.main-nav {     /*目次*/
+	font-size: 2.5rem;
+	writing-mode: vertical-rl;
+	text-align: center;
+	list-style: none;
+	margin-bottom: 300px;
+	border: solid 5px;
+	border-radius: 50%;
+	border-color: #b3424a;
+	padding: 25px 50px 30px 50px;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+
+.main-nav li{	/*目次の中身*/
+	font-size:1.5rem;
+	font-weight: bold;
+}
+
+.main-nav li:hover {
+	color: #f00;
+}	
+
+.popo{	/*導入文*/
+	margin-left:auto;
+	line-height:2.35rem;
+	color:#432;
+	font-size:1.13rem;
+	font-weight: bold;
+	margin-top:19px;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}	
+
+.flex{	/*導入文と目次を横並び*/
+	display:flex;
+	margin-top:15px;
+}
+
+.big-bg {	/*紅葉の画像*/
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-image: url(../ホームページ制作/haikeigazou.jpg);
+	min-height: 100vh;
+}
+
+.kouhann{
+	max-width: 1050px;
+	margin: 0 auto;
+	padding: 0.6%;
+	margin-left:auto;
+	line-height:2.35rem;
+	color:#432;
+	font-size:1.13rem;
+	font-weight: bold;
+	margin-top:-50px;	
+}
+
+.irodake{
+	/*background-color:#3cd371;*/
+}
+
+.jojo{
+	/*color:#dcdcdc;*/
+	color: #3cd371;
+	text-align: center;
+	padding: 0.6em;
+	margin-bottom:60px;
+	border-top: solid 2px #6cb4e4;
+	border-bottom: solid 2px #6cb4e4;
+	background: -webkit-repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+	background: repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+	text-shadow: #fff 2px 0, #fff -2px 0, #fff 0 -2px, #fff 0 2px, #fff 2px 2px, #fff -2px 2px, #fff 2px -2px, #fff -2px -2px, #fff 	1px 2px, #fff -1px 2px, #fff 1px -2px, #fff -1px -2px, #fff 2px 1px, #fff -2px 1px, #fff 2px -1px, #fff -2px -1px, rgba(0, 0, 0,	.5) 3px 3px 3px;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明	朝", "ＭＳ 明朝", serif;
+	font-size:2.5rem;
+}
+.daimoku {	/*各見出し*/
+	position: relative;
+	padding: 1.5rem 2rem;
+	border: 3px solid #d8d8d8;
+	border-radius: 10px;
+	background: #f9f9f9;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明	朝	", "ＭＳ 明朝", serif;
+	text-shadow: #fff 2px 0, #fff -2px 0, #fff 0 -2px, #fff 0 2px, #fff 2px 2px, #fff -2px 2px, #fff 2px -2px, #fff -2px -2px, #fff 
+}
+
+h2:before {
+	position: absolute;
+	bottom: -14px;
+	left: 1em;
+	width: 0;
+	height: 0;
+	content: '';
+	border-width: 14px 12px 0 12px;
+	border-style: solid;
+	border-color: #d8d8d8 transparent transparent transparent;
+}
+
+h2:after {
+	position: absolute;
+	bottom: -10px;
+	left: 1em;
+	width: 0;
+	height: 0;
+	content: '';
+	border-width: 14px 12px 0 12px;
+	border-style: solid;
+	border-color: #f9f9f9 transparent transparent transparent;
+}
+
+.naiyou{
+	margin-top:10px;
+	margin-bottom:20px;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明	朝", "ＭＳ 明朝", serif;
+}
+
+footer {
+	width: 100%;
+	height: 120px; 
+	padding:40px 0;
+	text-align: center;
+	color:#fff;
+	background-color:#000;
+}

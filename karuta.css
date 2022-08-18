@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+/* 共通部分
+--------------- */
+body {
+	font-size: 120%;
+	max-width:1200px;
+	background-color:#e0ffff;
+	line-height:1.65;
+}
+
+a {
+	text-decoration: none;
+}
+
+.c{
+	padding:0 8%;
+}
+.p{
+	margin-right:20px;
+}
+
+.flex{
+	display:flex;
+}
+
+.yoyo{
+	font-size: 1.2rem;
+	writing-mode: vertical-rl;
+	text-align: center;
+	list-style: none;
+	font-weight: bold;
+	border: solid 5px;
+	border-radius: 50%;
+	border-color: #b3424a;
+	padding: 25px 50px 30px 50px;
+	margin-left:auto;
+	margin-right:0;	
+	margin-bottom:-90px;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.jyoumou {
+	font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+	text-align:center;
+	text-decoration:underline #0b0;
+	color: #000;
+}
+
+.iroha {
+	 font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+	text-align:center;
+	text-decoration:underline #0b0;
+	color: #000;	
+}
+.gakusyuu {
+ 	font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+	text-align:center;
+	text-decoration:underline #0b0;
+	color: #000;
+}
