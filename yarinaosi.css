@@ -14,7 +14,8 @@ a{
 	text-decoration: none;
 }
 img {
-	max-width: 100%;
+	max-width: 90vw;
+
 }
 
 /*header*/
@@ -93,6 +94,7 @@ img {
 	display:flex;
 	margin-top:15px;
 }
+
 
 .big-bg {	/*紅葉の画像*/
 	background-size: cover;
