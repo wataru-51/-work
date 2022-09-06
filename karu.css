@@ -1,7 +1,7 @@
 @charset "utf-8";
 ";
 
-/* 共通部分
+/* 共通部�?
 ------------------ */
 html {
     font-size: 100%;
@@ -19,13 +19,13 @@ html {
 	margin-left:auto;
 	margin-right:0;	
 	margin-bottom:-40px;
-	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
 }
 
 
 
 body {
-    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+    font-family: "Yu Gothic Medium", "游ゴシ�?ク Medium", YuGothic, "游ゴシ�?ク�?", "ヒラギノ角ゴ Pro W3", sans-serif;
     line-height: 1.65;    
     background-color: #e0ffff;
     font-size: 120%;
@@ -51,5 +51,8 @@ img {
 	
 	font-size:30px;
 }
-
-
+.oritatami2{
+	margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}

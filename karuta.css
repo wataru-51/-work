@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* 共通部分
+/* 共通部�?
 --------------- */
 body {
 	font-size: 120%;
@@ -37,7 +37,7 @@ a {
 	margin-left:auto;
 	margin-right:0;	
 	margin-bottom:-90px;
-	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
 }
 
 .jyoumou {
@@ -58,4 +58,17 @@ a {
 	text-align:center;
 	text-decoration:underline #0b0;
 	color: #000;
+}
+.oritatami{
+	margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+
+.picture {
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-image: url(../ホームページ制作/.jyoumou.jpg);
+	min-height: 100vh;
 }
