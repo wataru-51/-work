@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* å…±é€šéƒ¨ï¿½?
+/* å…±é€šéƒ¨?¿½?
 --------------- */
 body {
 	font-size: 120%;
@@ -24,6 +24,14 @@ a {
 	display:flex;
 }
 
+.flex-2{
+	display:flex;
+	justify-content: space-around;
+	border: #000;
+	
+}
+
+
 .box29 {
     margin: 2em 0;
     background: #dcefff;
@@ -41,12 +49,6 @@ a {
     padding: 20px 20px 0 20px;
     margin: 0;
 }
-.flex-2{
-	display:flex;
-	justify-content: space-around;
-	border: #000;
-	
-}
 
 
 .yoyo{
@@ -62,7 +64,7 @@ a {
 	margin-left:auto;
 	margin-right:0;	
 	margin-bottom:-90px;
-	font-family:  "æ¸¸æ˜æœ", YuMincho, "Hiragino Mincho ProN W3", "ãƒ’ãƒ©ã‚®ãƒï¿½?ï¿½æœ ProN W3", "Hiragino Mincho 	ProN", "HGæ˜æœE", "?ï¿½ï¿½?ï¿½ï¿½ ?ï¿½ï¿½æ˜æœ", "?ï¿½ï¿½?ï¿½ï¿½ æ˜æœ", serif;
+	font-family:  "æ¸¸æ˜æœ", YuMincho, "Hiragino Mincho ProN W3", "ãƒ’ãƒ©ã‚®ãƒï¿½??¿½æœ? ProN W3", "Hiragino Mincho 	ProN", "HGæ˜æœE", "??¿½?¿½??¿½?¿½ ??¿½?¿½æ˜æœ", "??¿½?¿½??¿½?¿½ æ˜æœ", serif;
 }
 
 .jyoumou {
@@ -87,14 +89,14 @@ a {
 .oritatami{
 	margin-left: auto;
     margin-right: auto;
-    width: 8em
+    width: 8em;
 }
 
 .picture {
 	background-size: cover;
 	background-position: center top;
 	background-repeat: no-repeat;
-	background-image: url(../ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸åˆ¶ä½œ/.jyoumou.jpg);
+	background-image: url(../ãƒ›ã?¼ãƒ?ãƒšã?¼ã‚¸åˆ¶ä½?/.jyoumou.jpg);
 	min-height: 100vh;
 }
 
