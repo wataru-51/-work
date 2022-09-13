@@ -22,13 +22,14 @@ a {
 
 .flex{
 	display:flex;
+	
 }
+
 
 .flex-2{
 	display:flex;
 	justify-content: space-around;
 	border: #000;
-	
 }
 
 
