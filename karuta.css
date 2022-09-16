@@ -22,13 +22,14 @@ a {
 
 .flex{
 	display:flex;
+	
 }
+
 
 .flex-2{
 	display:flex;
 	justify-content: space-around;
 	border: #000;
-	
 }
 
 
@@ -98,5 +99,9 @@ a {
 	background-repeat: no-repeat;
 	background-image: url(../ホ�?��?ペ�?�ジ制�?/.jyoumou.jpg);
 	min-height: 100vh;
+}
+
+.huti{
+	border:solid rgb(0, 0, 0);
 }
 

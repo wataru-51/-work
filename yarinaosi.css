@@ -4,6 +4,7 @@ hrml {
 	font-size: 100%;
 }
 
+
 body {
 	font-family:"Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
 	line-height: 1.4;
@@ -24,14 +25,8 @@ img {
 	background-repeat: repeat;	
 	
 }
-/*
-.header{
-	text-align: center;
-	color: #ffa07a;
-	font-size: 2.2rem;
-	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-	margin:0 280px;
-}*/
+
+
 
 .jojo-1{
 	/*color:#dcdcdc;*/
