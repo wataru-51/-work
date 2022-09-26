@@ -8,45 +8,36 @@ body {
     line-height: 1.7;
     color: #432;
 }
+.daimei {
+	text-align:center;
+	margin-top:0%;
+	font-size:30px;
+	margin: 0; 
+    padding: 0;
+    font-family:  serif;
+	background-color:#b0e0e6;
+    color:#000000;
+}
+.box5 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;
+}
+.box5 a {
+    margin: 0; 
+    padding: 0;
+	text-decoration: none;
+}
 
-.flex {
-	display: flex; /*横並び*/
-}
-.flex .image {
-	width: 700px; /*画像サイズ指定*/
-	margin: 0;
-	padding: 0;
-}
-.flex .image img {
-	width: 100%;
-	height: auto;
-}
-.flex .text {
-	margin: 0 0 0 20px;
-	padding: 0;
-}
-.btn--orange,
-a.btn--orange {
-	color: #fff;
-	background-color: #eb6100;
-}
-  .btn--orange:hover,
-  a.btn--orange:hover {
-	color: #fff;
-	background: #f56500;
-}
-  
-  a.btn--radius {
-	 border-radius: 300vh;
-}
 /*aaa*/
 .slider img {
-    width:auto;/*スライダー内の画像*/
-    height: 300px;
+    width: 100px;/*スライダー内の画像*/
+    height: auto;
+	max-width: 400px;
 }
 
 .slider .slick-slide {
-  transform: scale(0.8);/*左右の画像のサイズを80%に*/
+  transform: scale(0.7);/*左右の画像のサイズを80%に*/
   transition: all .5s;/*拡大や透過のアニメーションを0.5秒で行う*/
   opacity: 0.5;/*透過50%*/
 }
@@ -55,7 +46,6 @@ a.btn--orange {
   transform: scale(1);/*中央の画像のサイズだけ等倍に*/
   opacity: 1;/*透過なし*/
 }
-
 
 /*矢印の設定*/
 
