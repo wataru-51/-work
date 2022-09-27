@@ -5,6 +5,7 @@
 	text-align: center;
 	margin-left: 5px;
     max-height: 20px 
+    auto: fullsize;
 }
 .hyou td {
 	border: solid 1px;
@@ -15,4 +16,7 @@
 	width: 120px;
 	height: 50px;
 	border: solid 2px;
+}
+.f {
+    min-width: 620px;
 }
