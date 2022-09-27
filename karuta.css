@@ -25,13 +25,16 @@ a {
 	
 }
 
-
 .flex-2{
 	display:flex;
 	justify-content: space-around;
 	border: #000;
 }
 
+.flex3{
+	display:flex;
+	justify-content: center;
+}
 
 .box29 {
     margin: 2em 0;
