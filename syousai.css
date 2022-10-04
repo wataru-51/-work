@@ -1,11 +1,34 @@
 @charset"utf-8";
+
+body {
+	background-color: #e0ffff;
+	max-width: 1150px;
+	margin: 0 auto;
+	padding: 0.6%;
+}
+
+a{
+	text-decoration: none;
+}
+
+.kaeru{
+	font-size: 1.3rem;
+}
+.kaeru li:hover {
+	color: #f00;
+}	
+
+
+.title{
+	border-bottom: 3px dashed rgb(231, 210, 19);
+	width: 270px;
+	text-align: center;
+}
 .hyou {
 	border-collapse:  collapse;
 	border: solid 2px;
-	text-align: center;
 	margin-left: 5px;
     max-height: 20px 
-    auto: fullsize;
 }
 .hyou td {
 	border: solid 1px;
@@ -16,7 +39,7 @@
 	border: solid 2px;
 }
 .f {
-    width: 330px;
+    width: 310px;
 }
 .f2{
 	width: 50px;
