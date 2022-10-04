@@ -14,16 +14,21 @@ a{
 .kaeru{
 	font-size: 1.3rem;
 }
+
 .kaeru li:hover {
 	color: #f00;
 }	
-
 
 .title{
 	border-bottom: 3px dashed rgb(231, 210, 19);
 	width: 270px;
 	text-align: center;
 }
+
+.bun{
+	line-height:1.7rem;
+}
+
 .hyou {
 	border-collapse:  collapse;
 	border: solid 2px;
@@ -39,7 +44,8 @@ a{
 	border: solid 2px;
 }
 .f {
-    width: 310px;
+    width: 370px;
+	padding: 8px 0;
 }
 .f2{
 	width: 50px;
