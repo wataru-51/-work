@@ -16,5 +16,8 @@
 	border: solid 2px;
 }
 .f {
-    min-width: 620px;
+    width: 330px;
+}
+.f2{
+	width: 50px;
 }
