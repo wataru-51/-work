@@ -2,12 +2,14 @@
 
 html {
     font-size: 100%;
+    
 }
 body {
-    font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
-    line-height: 1.7;
-    color: #432;
+	font-family: "Yu Gothic Medium", "貂ｸ繧ｴ繧ｷ繝?繧ｯ Medium", YuGothic, "貂ｸ繧ｴ繧ｷ繝?繧ｯ菴?", "繝偵Λ繧ｮ繝手ｧ偵ざ Pro W3", sans-serif;
+	line-height: 1.8;
+	color: #432;
 }
+
 .daimei {
 	text-align:center;
 	margin-top:0%;
@@ -94,8 +96,4 @@ body {
     display:block;
     border-radius:50%;
     background:#ccc;/*ドット�?�タンの色*/
-}
-
-.slick-dots .slick-active button{
-    background:#333;/*ドット�?�タンの現在地表示の色*/
 }
