@@ -1,15 +1,41 @@
 @charset "utf-8";
 
+
 html {
     font-size: 100%;
     background-color:#e0ffff;
 }
+
+a {
+	text-decoration: none;
+}
+
 body {
 	font-family: "Yu Gothic Medium", "貂ｸ繧ｴ繧ｷ繝?繧ｯ Medium", YuGothic, "貂ｸ繧ｴ繧ｷ繝?繧ｯ菴?", "繝偵Λ繧ｮ繝手ｧ偵ざ Pro W3", sans-serif;
 	line-height: 1.8;
 	color: #432;
 
 }
+
+.flex{
+    display:flex;
+    justify-content: center;
+}
+
+.main-nav {     /*逶ｮ谺｡*/
+	font-size: 1.2rem;
+	writing-mode: vertical-rl;
+	text-align: center;
+	list-style: none;
+	font-weight: bold;
+	border: solid 5px;
+	border-radius: 50%;
+	border-color: #b3424a;
+	margin-right:auto;	
+	margin-bottom:-100px;
+	font-family:  "貂ｸ譏取悃", YuMincho, "Hiragino Mincho ProN W3", "繝偵Λ繧ｮ繝趣ｿｽ??�ｿｽ�ｿｽ�ｿｽ? ProN W3", "Hiragino Mincho 	ProN", "HG譏取悃E", "??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ ??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ譏取悃", "??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ 譏取悃", serif;
+}
+
 
 .zentai{
     background-color:#e0ffff;
@@ -19,6 +45,8 @@ body {
 .font {
     font-weight: bold;
 }
+
+
 
 .daimei {
 	text-align:center;
