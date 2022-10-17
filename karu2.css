@@ -2,12 +2,18 @@
 
 html {
     font-size: 100%;
-    
+    background-color:#e0ffff;
 }
 body {
 	font-family: "Yu Gothic Medium", "貂ｸ繧ｴ繧ｷ繝?繧ｯ Medium", YuGothic, "貂ｸ繧ｴ繧ｷ繝?繧ｯ菴?", "繝偵Λ繧ｮ繝手ｧ偵ざ Pro W3", sans-serif;
 	line-height: 1.8;
 	color: #432;
+
+}
+
+.zentai{
+    background-color:#e0ffff;
+
 }
 
 .daimei {
@@ -20,6 +26,7 @@ body {
 	background-color:#b0e0e6;
     color:#000000;
 }
+
 .box5 {
     padding: 0.5em 1em;
     margin: 1rem 10rem;
