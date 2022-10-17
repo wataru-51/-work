@@ -39,6 +39,9 @@ body {
 
 /*aaa*/
 .slider img {
+    overflow:hidden;
+    border:solid 1px;
+    display:flex;
     width: 100px;/*スライダー�?の画�?*/
     height: auto;
 	max-width: 400px;
@@ -100,8 +103,4 @@ body {
     display:block;
     border-radius:50%;
     background:#ccc;/*ドット�?�タンの色*/
-}
-
-.slick-dots .slick-active button{
-    background:#333;/*ドット�?�タンの現在地表示の色*/
 }
