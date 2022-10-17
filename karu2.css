@@ -2,12 +2,14 @@
 
 html {
     font-size: 100%;
+    
 }
 body {
-    font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
-    line-height: 1.7;
-    color: #432;
+	font-family: "Yu Gothic Medium", "貂ｸ繧ｴ繧ｷ繝?繧ｯ Medium", YuGothic, "貂ｸ繧ｴ繧ｷ繝?繧ｯ菴?", "繝偵Λ繧ｮ繝手ｧ偵ざ Pro W3", sans-serif;
+	line-height: 1.8;
+	color: #432;
 }
+
 .daimei {
 	text-align:center;
 	margin-top:0%;
@@ -30,31 +32,31 @@ body {
 
 /*aaa*/
 .slider img {
-    width: 100px;/*スライダー�?の画�?*/
+    width: 100px;/*スライダー�?の画�?*/
     height: auto;
 	max-width: 400px;
 }
 
 .slider .slick-slide {
-  transform: scale(0.7);/*左右の画像�?�サイズ�?80%に*/
-  transition: all .5s;/*拡大�?透過のアニメーション�?0.5秒で行う*/
+  transform: scale(0.7);/*左右の画像�?�サイズ�?80%に*/
+  transition: all .5s;/*拡大�?透過のアニメーション�?0.5秒で行う*/
   opacity: 0.5;/*透過50%*/
 }
 
 .slider .slick-slide.slick-center{
-  transform: scale(1);/*中央の画像�?�サイズ�?け等倍に*/
-  opacity: 1;/*透過な�?*/
+  transform: scale(1);/*中央の画像�?�サイズ�?け等倍に*/
+  opacity: 1;/*透過な�?*/
 }
 
-/*矢印の設�?*/
+/*矢印の設�?*/
 
 /*戻る、次へ矢印の位置*/
 .slick-prev, 
 .slick-next {
     position: absolute;/*絶対配置にする*/
     top: 42%;
-    cursor: pointer;/*マウスカーソルを指マ�?�クに*/
-    outline: none;/*クリ�?クをしたら出てくる�?線を消す*/
+    cursor: pointer;/*マウスカーソルを指マ�?�クに*/
+    outline: none;/*クリ�?クをしたら出てくる�?線を消す*/
     border-top: 2px solid #666;/*矢印の色*/
     border-right: 2px solid #666;/*矢印の色*/
     height: 15px;
@@ -71,7 +73,7 @@ body {
     transform: rotate(45deg);
 }
 
-/*ドットナビゲーションの設�?*/
+/*ドットナビゲーションの設�?*/
 
 .slick-dots {
     text-align:center;
@@ -86,13 +88,13 @@ body {
 .slick-dots button {
     color: transparent;
     outline: none;
-    width:8px;/*ドット�?�タンのサイズ*/
-    height:8px;/*ドット�?�タンのサイズ*/
+    width:8px;/*ドット�?�タンのサイズ*/
+    height:8px;/*ドット�?�タンのサイズ*/
     display:block;
     border-radius:50%;
-    background:#ccc;/*ドット�?�タンの色*/
+    background:#ccc;/*ドット�?�タンの色*/
 }
 
 .slick-dots .slick-active button{
-    background:#333;/*ドット�?�タンの現在地表示の色*/
+    background:#333;/*ドット�?�タンの現在地表示の色*/
 }
