@@ -16,6 +16,10 @@ body {
 
 }
 
+.font {
+    font-weight: bold;
+}
+
 .daimei {
 	text-align:center;
 	margin-top:0%;
