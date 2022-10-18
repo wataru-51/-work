@@ -71,10 +71,9 @@ img {
 	font-weight: bold;
 }
 
-.main-nav li:hover {
-	color: #f00;
-}	
-
+a:hover{
+	color:#f00;
+}
 .popo{	/*蟆主�･譁�*/
 	margin-left:auto;
 	line-height:2.35rem;
