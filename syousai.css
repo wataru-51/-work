@@ -1,11 +1,11 @@
-@charset"utf-8";
+@charset "utf-8";
 
 body {
 	background-color: #e0ffff;
 	max-width: 1100px;
 	margin: 0 auto;
 	padding: 0.6%;
-	font-family:  "Ÿà–¾’©", YuMincho, "Hiragino Mincho ProN W3", "ƒqƒ‰ƒMƒm???’© ProN W3", "Hiragino Mincho ProN", "HG–¾’©E", "?????? ???–¾’©", "?????? –¾’©", serif;
+	font-family:  "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", YuMincho, "Hiragino Mincho ProN W3", "ï¿½qï¿½ï¿½ï¿½Mï¿½m???ï¿½ï¿½ ProN W3", "Hiragino Mincho ProN", "HGï¿½ï¿½ï¿½ï¿½E", "?????? ???ï¿½ï¿½ï¿½ï¿½", "?????? ï¿½ï¿½ï¿½ï¿½", serif;
 }
 
 a{
