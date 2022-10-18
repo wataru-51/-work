@@ -1,10 +1,10 @@
-@charset="utf-8";
+@charset "utf-8";
 
 html {
 	font-size: 100%;
 }
 body {
-	font-family: "Yu Gothic Medium", "游ゴシ�?ク Medium", YuGothic, "游ゴシ�?ク�?", "ヒラギノ角ゴ Pro W3", sans-serif;
+	font-family: "Yu Gothic Medium", "游ゴシ�?ク Medium", YuGothic, "游ゴシ�?ク�?", "ヒラギノ角ゴ Pro W3", sans-serif;
 	line-height: 1.8;
 	color: #432;
 	background-color:#e0ffff;
@@ -37,19 +37,24 @@ img {
 	margin-left:auto;
 	margin-right:0;	
 	margin-bottom:-80px;
-	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
 }
 
 .h1-nav {
 	font-size: 1.7rem;
-	font-weight: bold;
-	color: #33a323;
+	font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+	text-align:center;
+	text-decoration:underline #0b0;
+	color: #000;
+
 }			
 .tit {
 	font-size: 1.5rem;
-	text-align: center;
-	border: 8px;
-	color:#33a323		
+	font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+	text-align:center;
+	text-decoration:underline #0b0;
+	color: #000;
+		
 }
 
 .c{
@@ -87,8 +92,18 @@ img {
 .bun {
 	font-size: 1.25rem;
 }
-.label {
+.label{
+	text-align: center;
 	font-size: 1.88rem;
-	padding-left: 400px;
 	margin-bottom: 30px;
+}
+
+.tihayahuru{
+	width: 400px;
+	height: 300px;
+}
+
+.tihayahuru2{
+	width: 500px;
+	height: 300px;
 }
