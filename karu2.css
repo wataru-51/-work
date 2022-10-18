@@ -11,8 +11,9 @@ a {
 }
 
 body {
-	font-family: "Yu Gothic Medium", "貂ｸ繧ｴ繧ｷ繝?繧ｯ Medium", YuGothic, "貂ｸ繧ｴ繧ｷ繝?繧ｯ菴?", "繝偵Λ繧ｮ繝手ｧ偵ざ Pro W3", sans-serif;
-	line-height: 1.8;
+	font-family:  "貂ｸ譏取悃", YuMincho, "Hiragino Mincho ProN W3", "繝偵Λ繧ｮ繝趣ｿｽ??�ｿｽ�ｿｽ�ｿｽ? ProN W3", "Hiragino Mincho 	ProN", "HG譏取悃E", "??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ ??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ譏取悃", "??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ??�ｿｽ�ｿｽ?�ｿｽ�ｿｽ 譏取悃", serif;
+
+    line-height: 1.8;
 	color: #432;
 
 }
@@ -65,8 +66,9 @@ a:hover{
 }
 
 .box5 {
-    margin: 1rem 13rem;
+    margin: 1rem 16rem;
     border: double 5px #4ec4d3;
+    font-weight: bold;
 }
 .box5 a {
     text-align: center;
