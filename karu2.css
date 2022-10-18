@@ -61,18 +61,18 @@ body {
 }
 
 .box5 {
-    margin: 1rem 10rem;
+    margin: 1rem 13rem;
     border: double 5px #4ec4d3;
 }
 .box5 a {
-    padding: center;
+    text-align: center;
 	text-decoration: none;
 }
 
 .bb{
     margin: 0 auto;
     width: 80%;
-    max-width: 500px;
+    max-width: 273px;
 }
 
 .slider img {
