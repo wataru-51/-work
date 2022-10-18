@@ -49,9 +49,13 @@ body {
 
 .font {
     font-weight: bold;
+    margin-bottom:-30px;
+    margin-top:10px;
 }
 
-
+a:hover{
+    color: #f00;
+}
 
 .daimei {
     font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
