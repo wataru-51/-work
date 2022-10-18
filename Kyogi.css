@@ -4,7 +4,7 @@ html {
 	font-size: 100%;
 }
 body {
-	font-family: "Yu Gothic Medium", "游ゴシ�?ク Medium", YuGothic, "游ゴシ�?ク�?", "ヒラギノ角ゴ Pro W3", sans-serif;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
 	line-height: 1.8;
 	color: #432;
 	background-color:#e0ffff;
@@ -37,7 +37,7 @@ img {
 	margin-left:auto;
 	margin-right:0;	
 	margin-bottom:-80px;
-	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�??���? ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "??��?��??��?�� ??��?��明朝", "??��?��??��?�� 明朝", serif;
 }
 
 .h1-nav {
