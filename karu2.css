@@ -35,6 +35,7 @@ body {
 }
 
 .aa{
+    font-size: 2.5rem;
     font-family: 貂ｸ譏取悃,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS譏取悃E,繝｡繧､繝ｪ繧ｪ,Meiryo,serif;
     text-align:center;
     text-decoration:underline #0b0;
@@ -53,14 +54,10 @@ body {
 
 
 .daimei {
+    font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
 	text-align:center;
-	margin-top:0%;
-	font-size:30px;
-	margin: 0; 
-    padding: 0;
-    font-family:  serif;
-	background-color:#b0e0e6;
-    color:#000000;
+	text-decoration:underline #0b0;
+	color: #000;
 }
 
 .box5 {

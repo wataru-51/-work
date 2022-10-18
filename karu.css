@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 
-/* 共通部�?
+/* 共通部�?
 ------------------ */
 html {
     font-size: 100%;
@@ -19,13 +19,13 @@ html {
 	margin-left:auto;
 	margin-right:0;	
 	margin-bottom:-40px;
-	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
+	font-family:  "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ�?�朝 ProN W3", "Hiragino Mincho 	ProN", "HG明朝E", "?��?�� ?��明朝", "?��?�� 明朝", serif;
 }
 
 
 
 body {
-    font-family: "Yu Gothic Medium", "游ゴシ�?ク Medium", YuGothic, "游ゴシ�?ク�?", "ヒラギノ角ゴ Pro W3", sans-serif;
+    font-family: "Yu Gothic Medium", "游ゴシ�?ク Medium", YuGothic, "游ゴシ�?ク�?", "ヒラギノ角ゴ Pro W3", sans-serif;
     line-height: 1.65;    
     background-color: #e0ffff;
     font-size: 120%;
@@ -40,16 +40,12 @@ img {
     max-width:90%;
 }
 .daimei {
-	
-    padding:0.05eem 0;
-    background-color:#b0e0e6;
-    color:#000000;
-	 
-	
-    font-family:  serif;
+
+	font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
 	text-align:center;
-	
-	font-size:30px;
+	text-decoration:underline #0b0;
+	color: #000;	
+   
 }
 .oritatami2{
 	margin-left: auto;
