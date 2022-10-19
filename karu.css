@@ -35,6 +35,9 @@ body {
 a {
     text-decoration: none;
 }
+a:hover{
+	color: #f00;
+}
 img {
     width: 500px;
     max-width:90%;

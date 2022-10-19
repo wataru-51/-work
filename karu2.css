@@ -79,6 +79,7 @@ a:hover{
     margin: 0 auto;
     width: 80%;
     max-width: 273px;
+    font-size: 1.05rem;
 }
 
 .slider img {
